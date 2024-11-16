@@ -37,6 +37,9 @@ Mỗi file trong repo này đại diện cho một bài toán trên LeetCode. T�
 
 - File JavaScript chứa code mẫu
 
+## Roadmap
+![Roadmap](/assets/roadmap-dsa.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
